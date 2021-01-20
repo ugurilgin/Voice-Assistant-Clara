@@ -1,0 +1,23 @@
+open file
+read
+open editor
+open menu
+open settings
+open the video
+Hello Clara
+Hi 
+How are you
+Who am i
+Open the Search Page
+Who is your creator
+Show me your creator
+Who are you
+Show me my mails
+How is the weather today
+close yourself
+Whats up man
+What is your job
+How is it going
+Open the Java
+Open the Facebook
+example
