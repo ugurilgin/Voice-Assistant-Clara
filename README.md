@@ -1,4 +1,4 @@
-Before sharing, permission must be requested
+# Before sharing, permission must be requested
 # Voice Assistant Clara
 ![logo](/SS/logo.png)
 
